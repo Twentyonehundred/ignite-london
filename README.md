@@ -4,6 +4,8 @@ This repository contains a starter Blueprint to get you up and running quickly o
 
 ## For more information
 
+Test amend
+
 For more information on this Blueprint please check out the following sources:
 
 - [WP Engine's Atlas Platform](https://wpengine.com/atlas/)
