@@ -4,7 +4,7 @@ This repository contains a starter Blueprint to get you up and running quickly o
 
 ## For more information
 
-Test amend for staging
+Test amend for staging example pull request
 
 For more information on this Blueprint please check out the following sources:
 
